@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Blog"
-  text: "A Blog Site"
+  name: 'My Blogs'
+  text: 'A Blog Site'
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: JavaScript
+      link: /js/index.html
 
 features:
   - title: Feature A
@@ -22,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-

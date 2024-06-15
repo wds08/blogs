@@ -1,6 +1,10 @@
 ---
 outline: deep
+title: VitePress1
+titleTemplate: Vite & Vue powered static site generator
 ---
+
+
 
 # Runtime API Examples
 
